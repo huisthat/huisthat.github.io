@@ -1,0 +1,27 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "bluehu"
+theme = "er"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = -110
+    [menu.main.params]
+      class = "highlight-menu-item"
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact/"
+    weight = -10
+    [menu.main.params]
+      class = "highlight-menu-item"
