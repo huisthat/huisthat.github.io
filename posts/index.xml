@@ -6,14 +6,41 @@
     <description>Recent content in Posts on bluehu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 17:38:50 +0800</lastBuildDate><atom:link href="https://huisthat.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 12:23:50 +0800</lastBuildDate><atom:link href="https://huisthat.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test post</title>
-      <link>https://huisthat.github.io/posts/test-post/</link>
+      <title>Meritocracy and Social Inequality in Singapore Education System</title>
+      <link>https://huisthat.github.io/posts/meritocracy-and-social-inequality/</link>
+      <pubDate>Fri, 12 Nov 2021 12:23:50 +0800</pubDate>
+      
+      <guid>https://huisthat.github.io/posts/meritocracy-and-social-inequality/</guid>
+      <description>This was the final paper I wrote for another USP module called Democracy and Inequality (USE2325)
+It was an extremely eye opening module and I think I have learnt alot, especially about the different causes and types of inequalities. I have tried to apply my newfound knowledge and my own experiences in this paper.
+Meritocracy and Social Inequality in Singapore Education System
+Introduction
+“Reward for Work, Work for Reward” (Poon, 2016).</description>
+    </item>
+    
+    <item>
+      <title>Personal Todo List Bot</title>
+      <link>https://huisthat.github.io/posts/personal-todo-list-bot/</link>
       <pubDate>Fri, 15 Oct 2021 17:38:50 +0800</pubDate>
       
-      <guid>https://huisthat.github.io/posts/test-post/</guid>
-      <description>Introduction sth</description>
+      <guid>https://huisthat.github.io/posts/personal-todo-list-bot/</guid>
+      <description>Introduction This was an individual project that is making a bot that keep tracks of the todos, deadlines and events. For deadlines and events, there will be a date and time tagged to it. It is implemented using Java, and the GUI is made using JavaFx. The jar file can be found here!
+How it looks like:
+Challenges One of the biggest challenges was implementing the GUI using JavaFx. I was initially really confused by the stage, scene etc, but after a few days of mulling over it, I can finally figure out how things work and get them to work as I wanted them to.</description>
+    </item>
+    
+    <item>
+      <title>Graphical Representation of Modules in NUS</title>
+      <link>https://huisthat.github.io/posts/orbital/</link>
+      <pubDate>Tue, 10 Aug 2021 17:38:50 +0800</pubDate>
+      
+      <guid>https://huisthat.github.io/posts/orbital/</guid>
+      <description>Website
+README
+Introduction This was a pair project done over the course of three months, It was rewarding and fulfilling, as I learnt to start and complete a software development project from scratch.
+Project Introduction ModPal is a graphical visualization tool for module planning. Our dynamic maps model the connections among modules in NUS, so university students can get a big picture of their academic roadmap, and visualize and explore what its curriculum coverage really means.</description>
     </item>
     
     <item>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on bluehu</title>
+    <link>https://huisthat.github.io/tags/react/</link>
+    <description>Recent content in react on bluehu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Aug 2021 17:38:50 +0800</lastBuildDate><atom:link href="https://huisthat.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graphical Representation of Modules in NUS</title>
+      <link>https://huisthat.github.io/posts/orbital/</link>
+      <pubDate>Tue, 10 Aug 2021 17:38:50 +0800</pubDate>
+      
+      <guid>https://huisthat.github.io/posts/orbital/</guid>
+      <description>Website
+README
+Introduction This was a pair project done over the course of three months, It was rewarding and fulfilling, as I learnt to start and complete a software development project from scratch.
+Project Introduction ModPal is a graphical visualization tool for module planning. Our dynamic maps model the connections among modules in NUS, so university students can get a big picture of their academic roadmap, and visualize and explore what its curriculum coverage really means.</description>
+    </item>
+    
+  </channel>
+</rss>
